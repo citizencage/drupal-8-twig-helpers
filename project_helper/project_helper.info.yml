@@ -1,0 +1,6 @@
+name: Project Helper
+type: module
+description: 'Custom module containing utility functions to ease project development'
+package: Healthgrades Enterprise
+core: 8.x
+version: 1.0

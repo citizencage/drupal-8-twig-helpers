@@ -1,0 +1,5 @@
+services:
+  ProjectHelper.twig_extension:
+    class: Drupal\project_helper\TwigExtension\ProjectHelperExtension
+    tags:
+      - { name: twig.extension }
